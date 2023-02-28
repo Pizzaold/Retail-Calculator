@@ -3,3 +3,4 @@ hind = input("Sisesta toote hind: ")
 
 print("Kokkus: " + kogus)
 print("Hind: " + hind)
+print("Kokku: " + str(int(kogus) * int(hind)))
